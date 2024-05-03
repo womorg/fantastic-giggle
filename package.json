@@ -1,6 +1,6 @@
 {
   "name": "@womorg/fantastic-giggle",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -23,6 +23,7 @@
     "@womorg/shiny-engine": "^1.0.9",
     "@womorg/studiou": "^1.0.0",
     "@womorg/studious-telegram": "^1.2.7",
+    "corcojs-qrcode": "^1.0.0",
     "corcojs-qrcode-logo": "^1.0.0",
     "corcojs-qrcode-sample": "^1.0.1",
     "dable-effect": "^1.0.2",
