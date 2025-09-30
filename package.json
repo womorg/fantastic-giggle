@@ -1,10 +1,10 @@
 {
   "name": "@womorg/fantastic-giggle",
-  "version": "10.41.350",
+  "version": "10.41.351",
   "description": "",
   "main": "index.js",
   "scripts": {},
-  "author": "womhla6s",
+  "author": "maggaopen",
   "license": "MIT",
   "dependencies": {
     "@womorg/adipisci-maxime-facilis": "^1.0.0",
